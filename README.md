@@ -8,7 +8,7 @@
 
 ## ⭐ Badges
 
-<img src="https://img.shields.io/badg/Language-C++-blue?sle=for-the-badge">
+<img src="https://img.shields.io/badg/Language-C++-blue?sle=for-the-badge
 <img src="https://img.shields.io/github/stars/roshangupta7755/OOPS-with-CPP?style=for-the-badge&color=yellow">
 <img src="https://img.shields.io/github/forks/roshangupta7755/OOPS-with-CPP?style=for-the-badge&color=green">
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">hh
